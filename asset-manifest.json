@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ChooseGlasses/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ChooseGlasses/static/js/main.7b1f97e5.chunk.js",
+    "main.js.map": "/ChooseGlasses/static/js/main.7b1f97e5.chunk.js.map",
+    "runtime-main.js": "/ChooseGlasses/static/js/runtime-main.69fe6155.js",
+    "runtime-main.js.map": "/ChooseGlasses/static/js/runtime-main.69fe6155.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/ChooseGlasses/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.be42367d.chunk.js": "/ChooseGlasses/static/js/2.be42367d.chunk.js",
+    "static/js/2.be42367d.chunk.js.map": "/ChooseGlasses/static/js/2.be42367d.chunk.js.map",
+    "index.html": "/ChooseGlasses/index.html",
+    "precache-manifest.c4b7aa60eb16fe777cb0211c60c5386d.js": "/ChooseGlasses/precache-manifest.c4b7aa60eb16fe777cb0211c60c5386d.js",
+    "service-worker.js": "/ChooseGlasses/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/ChooseGlasses/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/ChooseGlasses/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.be42367d.chunk.js.LICENSE.txt": "/ChooseGlasses/static/js/2.be42367d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69fe6155.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.be42367d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.7b1f97e5.chunk.js"
+  ]
+}
